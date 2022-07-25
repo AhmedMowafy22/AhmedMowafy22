@@ -25,3 +25,4 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+![Snake animation](https://github.com/warriorwizard/warriorwizard/blob/output/github-contribution-grid-snake.svg)
