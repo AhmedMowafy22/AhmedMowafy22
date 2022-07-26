@@ -3,6 +3,9 @@
 
 
 - 🌱 I’m currently learning **C language and Embedded C**
+---
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,6 +16,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmowafy22&show_icons=true&locale=en&layout=compact" alt="ahmedmowafy22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmowafy22&show_icons=true&locale=en" alt="ahmedmowafy22" /></p>
