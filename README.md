@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mowafy</h1>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 
 - 🌱 I’m currently learning **C language and Embedded C**
